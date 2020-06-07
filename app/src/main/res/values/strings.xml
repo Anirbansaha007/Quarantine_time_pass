@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quarantine Time Pass</string>
+    <string name="roll_label">Roll</string>
+    <string name="name">Hi there. I\'m Anirban. Welcome to my basic app</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, here is a simple game.
+        \nWe all love play ludo.
+        \nAll of us played ludo many times.
+        \nThus we can use a virtual dice roller may be helpful when the real one is unavailable.
+        \nSince the real one so tiny, we often lose it, i tried to help a real bit with this virtual one :)
+        \nLet\'s dive into the game.
+        \nEnjoy.\n\n</string>
+    <string name="what_is_your_status">What\'s up? Update your about/status.</string>
+    <string name="done">Done</string>
+</resources>
